@@ -1,8 +1,8 @@
 class ThePit < Formula
   desc "Encrypted local secrets vault with an integration rail"
   homepage "https://github.com/OscillatingMonkey/the-pit"
-  url "https://github.com/OscillatingMonkey/the-pit/archive/refs/tags/v0.1.0.tar.gz"
-  sha256 "70b4a38b5591e5afd3c5e42734666b897d3161f8e99c220b8199f31dc771f2b6"
+  url "https://github.com/OscillatingMonkey/the-pit/archive/refs/tags/v0.1.1.tar.gz"
+  sha256 "5a48981fca857a30d636f859b4f4bbdaaadfe93c04597c351db6be86323d5525"
   license "MIT"
   head "https://github.com/OscillatingMonkey/the-pit.git", branch: "main"
 
